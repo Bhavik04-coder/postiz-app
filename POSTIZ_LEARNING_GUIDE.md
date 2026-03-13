@@ -1,6 +1,5 @@
 # Postiz — Comprehensive Learning Guide
 
-> **Audience**: Beginners who know programming (C++/Python) but are new to web development.
 > **Goal**: Understand the full structure, technologies, and architecture of the Postiz codebase.
 
 ---
